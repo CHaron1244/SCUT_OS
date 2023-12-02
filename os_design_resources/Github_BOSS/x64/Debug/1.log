@@ -1,0 +1,117 @@
+﻿  Simdisk.cpp
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(204,26): warning C4129: “!”: 不可识别的字符转义序列
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(283,17): error C2065: “rdIsNotEmpty”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(287,41): error C2065: “rdTarSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(288,48): error C2065: “rdTarSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(290,47): error C2065: “rdOriSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(291,21): error C2065: “rdIsNotEmpty”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(292,21): error C2065: “rdOriSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(293,21): error C2065: “rdBuf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(294,21): error C2065: “rdTarSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(300,47): error C2065: “rdOriSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(301,21): error C2065: “rdIsNotEmpty”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(302,21): error C2065: “rdOriSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(303,21): error C2065: “rdBuf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(304,21): error C2065: “rdTarSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(310,47): error C2065: “rdOriSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(311,21): error C2065: “rdIsNotEmpty”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(312,21): error C2065: “rdOriSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(313,21): error C2065: “rdBuf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(314,21): error C2065: “rdTarSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(374,34): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(375,21): error C2146: 语法错误: 缺少“;”(在标识符“ShowAllChildNodeName”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(416,22): error C2065: “NewINodeBlockSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(434,47): error C2065: “NewINodeBlockSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(530,22): error C2065: “NewINodeBlockSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(535,22): error C2065: “NewDocBlockSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(549,21): error C2374: “FreeChildSqe”: 重定义；多次初始化
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(430,21): message : 参见“FreeChildSqe”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(553,47): error C2065: “NewINodeBlockSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(595,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(649,37): error C2065: “WriteSend”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(649,48): error C2065: “writeBuf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(649,89): error C2065: “writeBuf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(651,38): error C2065: “WriteSend”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(654,66): error C2065: “InputInfo”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(654,21): error C2660: “InputCharArr”: 函数不接受 1 个参数
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(126,6): message : 参见“InputCharArr”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(654,21): message : 尝试匹配参数列表“(std::fstream)”时
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(655,27): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(656,21): error C2146: 语法错误: 缺少“)”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(655,21): error C2660: “Reply”: 函数不接受 1 个参数
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(118,6): message : 参见“Reply”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(655,21): message : 尝试匹配参数列表“(const char [33])”时
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(656,21): error C2146: 语法错误: 缺少“;”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(661,27): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(662,21): error C2146: 语法错误: 缺少“)”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(661,21): error C2660: “Reply”: 函数不接受 1 个参数
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(118,6): message : 参见“Reply”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(661,21): message : 尝试匹配参数列表“(const char [33])”时
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(662,21): error C2146: 语法错误: 缺少“;”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(662,47): error C2065: “OriSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(665,43): error C2065: “OriSqe”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(667,22): error C2065: “InstructionBuf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(674,17): error C2065: “Buf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(675,17): error C2065: “Buf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(676,17): error C2065: “Buf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(743,41): error C2065: “OriFileName”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(745,41): error C2065: “OriContext”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(753,27): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(754,21): error C2146: 语法错误: 缺少“)”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(753,21): error C2660: “Reply”: 函数不接受 1 个参数
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(118,6): message : 参见“Reply”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(753,21): message : 尝试匹配参数列表“(const char [33])”时
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(754,21): error C2146: 语法错误: 缺少“;”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(760,22): error C2065: “InstructionBuf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(764,17): error C2065: “Buf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(768,27): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(769,21): error C2146: 语法错误: 缺少“)”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(768,21): error C2660: “Reply”: 函数不接受 1 个参数
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(118,6): message : 参见“Reply”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(768,21): message : 尝试匹配参数列表“(const char [66])”时
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(769,21): error C2146: 语法错误: 缺少“;”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(775,27): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(776,21): error C2146: 语法错误: 缺少“)”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(775,21): error C2660: “Reply”: 函数不接受 1 个参数
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(118,6): message : 参见“Reply”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(775,21): message : 尝试匹配参数列表“(const char [33])”时
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(776,21): error C2146: 语法错误: 缺少“;”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(781,27): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(782,21): error C2146: 语法错误: 缺少“)”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(781,21): error C2660: “Reply”: 函数不接受 1 个参数
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(118,6): message : 参见“Reply”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(781,21): message : 尝试匹配参数列表“(const char [33])”时
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(782,21): error C2146: 语法错误: 缺少“;”(在标识符“JumpPointer”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(786,22): error C2065: “InstructionBuf”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(796,23): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(797,17): error C2143: 语法错误: 缺少“)”(在“continue”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(796,17): error C2660: “Reply”: 函数不接受 1 个参数
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(118,6): message : 参见“Reply”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(796,17): message : 尝试匹配参数列表“(const char [33])”时
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(797,17): error C2143: 语法错误: 缺少“;”(在“continue”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(800,9): error C2181: 没有匹配 if 的非法 else
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(806,5): error C2059: 语法错误:“return”
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(809,21): error C2065: “ReplyInfoSend”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(809,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(809,5): error C2365: “UnmapViewOfFile”: 重定义；以前的定义是“函数”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\memoryapi.h(279,1): message : 参见“UnmapViewOfFile”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(810,17): error C2065: “ReplyInfoSpace”: 未声明的标识符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(810,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(810,5): error C2365: “CloseHandle”: 重定义；以前的定义是“函数”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\handleapi.h(39,1): message : 参见“CloseHandle”的声明
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(811,1): error C2059: 语法错误:“}”
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(811,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(823,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(823,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1324,16): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1325,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1382,6): error C2601: “ShowAllChildNodeName”: 本地函数定义是非法的
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1328): message : 此行有一个“{”没有匹配项
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1422,5): error C2601: “dirAddLocation”: 本地函数定义是非法的
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1328): message : 此行有一个“{”没有匹配项
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1432,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1810,16): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1821,20): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(1826,16): error C2001: 常量中有换行符
+E:\Desktop\大三上\!!!!!!!!!!!!操作系统课程设计\Github_BOSS\simdisk\Simdisk.cpp(2169,1): fatal  error C1071: 在注释中遇到意外的文件结束
